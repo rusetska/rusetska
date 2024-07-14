@@ -1,16 +1,14 @@
-## Hi there 👋
+### Всем привет!
 
-<!--
-**rusetska/rusetska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Лена, и я — художник. Художник, который любит колдовать над данными.
 
-Here are some ideas to get you started:
+Анализ данных — именно та сфера, где мой математический склад ума, художественные способности, любовь к людям и желание помогать бизнесу могут быть максимально полезными. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Hard skills
+- Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn
+- SQL
+- MS Excel, Google Sheets
+
+###### Для связи: 
+- Почта: e.rusetska@gmail.com
+- [Telegram](https://t.me/i_rusetska)
