@@ -9,7 +9,7 @@
 - SQL
 - MS Excel, Google Sheets
 
-###### Для связи: 
+###### Для связи
 - [Telegram](https://t.me/i_rusetska)
 - Почта: e.rusetska@gmail.com
 
